@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Header-Link{
+  color: white;
+  text-decoration: none;
+}
+
+.Header-Link:hover{
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
